@@ -7,8 +7,6 @@ Repository includes projects completed for self learning and professional growth
   + Work is done using python to parse data from a csv file.
   + All findings for this project are described in text rather than visualizations.
  - **Life Expectancy vs GDP Analysis**
-  + Analyze the cost of patients' medical insurance in the U.S. and the factors that may influence this cost.
-  + Work is done using python to parse data from a csv file.
-  + All findings for this project are described in text rather than visualizations.
+  + Project in progress...
 - **Basbeall Team Salary Analysis**
   + Project in progress...
