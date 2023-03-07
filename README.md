@@ -9,7 +9,8 @@ Repository includes projects completed for self learning and professional growth
   
 - **SQL Analysis on Count.co**
   + Usage Funnels: https://count.co/report/qfhVCFU4BnG
-  + User Churn: 
+  + User Churn:
+  + Marketing Attribution: 
 
 - **Life Expectancy vs GDP Analysis**
   + Project in progress...
