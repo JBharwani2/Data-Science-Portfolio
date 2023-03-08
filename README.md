@@ -15,5 +15,5 @@ Repository includes projects completed for self learning and professional growth
 - **Life Expectancy vs GDP Analysis**
   + Project in progress...
 
-- **Basbeall Team Salary Analysis**
+- **Major League Baseball Team Salary Analysis**
   + Project in progress...
