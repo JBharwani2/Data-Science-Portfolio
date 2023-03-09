@@ -10,7 +10,7 @@ Repository includes projects completed for self learning and professional growth
 - **SQL Marketing Analysis on count.co**
   + Usage Funnels: https://count.co/report/qfhVCFU4BnG
   + User Churn: https://count.co/report/IkEWxKC7xgN
-  + Marketing Attribution: 
+  + Marketing Attribution: https://count.co/report/MGRloIa3HNh
 
 - **Life Expectancy vs GDP Analysis**
   + Project in progress...
