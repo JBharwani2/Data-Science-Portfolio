@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository includes projects completed for self learning and professional growth. Each project is either stored in the form of a Jupyter Notebook file within this repository or in a linked report on count.co for SQL projects. The project complexity increases from the top of the project description list to the bottom.
+Repository includes projects completed for self learning and professional growth. Each project is either stored in the form of a Jupyter Notebook file within this repository or in a linked report on count.co for SQL projects.
 
 ## Project Descriptions
 - **Medical Insurance Analysis**
@@ -16,4 +16,6 @@ Repository includes projects completed for self learning and professional growth
   + Project in progress...
 
 - **Major League Baseball Team Salary Analysis**
-  + Project in progress...
+  + Developed local Postgres database using csv data from https://www.seanlahman.com/baseball-archive/statistics/
+  + 29 tables of relationally structured data
+  + Further analyses in progress...
